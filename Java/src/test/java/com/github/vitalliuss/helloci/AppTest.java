@@ -29,7 +29,7 @@ public class AppTest {
 	
 	@Test
 	public void testAnotherMethod() {
-		App.doNothing();
+		//App.doNothing();
 	}
 	
 	@Test
